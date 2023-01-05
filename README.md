@@ -1,3 +1,4 @@
-# ver: 0.1011.22.0
+# ver: 0.1004.23.0
 
-the elysia website is a site that is going to be based off of the elysia discord group and is a project that will be going on for quite some time and hopefully for a long time after the purpose of the website is to add something in the real world that people can acesss in order to learn more about the lore of elysia in a way that i engaging and interactive.
+-updated the navigation bar to have more space between the elements so it doesnt feel as cramped 
+- minor code improvments ( adding the font in the style so the main code is not as cludderend and should be easier to read )
